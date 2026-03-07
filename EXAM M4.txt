@@ -1,0 +1,6 @@
+per la fase di EDA e pulizia dati ho proceduto tramite script python, principalmente per rimuovere dati inconsistenti e creare un campo puramente visivo (duration mm:ss)
+infine sempre tramite script ho creato un singolo file .xlsx con 3 tab da importare su looker
+
+si è aggiunta una fase visiva di EDA tramite diversi grafici di looker, fino a quando ho trovato la migliore visualizzazione per rispondere alla domanda "c'è correlazione tra durata del brano, ranking al festival e popolarità su spotify?"
+
+https://lookerstudio.google.com/reporting/07a16344-5c2e-4081-8b1c-fb12bfcd5136
